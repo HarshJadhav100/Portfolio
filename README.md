@@ -1,4 +1,4 @@
-# Sudharsan Portfolio
+# Harsh Jadhav
 
 Simple webpage crafted using pure HTML and CSS. A minimalistic showcase of structure and design.
 
